@@ -11,3 +11,4 @@ The sample project is designed for Hong Kong TV remote. Therefore, please custom
    a. static NSString *IPString = @"192.168.1.110"; // TV IP Address
    b. static NSString *AUTHString = @"0000"; // Pre-Shared Ke
 3. Compile and run. Let's try.
+4.
