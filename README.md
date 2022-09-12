@@ -12,3 +12,4 @@ The sample project is designed for Hong Kong TV remote. Therefore, please custom
    b. static NSString *AUTHString = @"0000"; // Pre-Shared Ke
 3. Compile and run. Let's try.
 4.
+5.
